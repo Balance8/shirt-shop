@@ -27,12 +27,21 @@
     ]
   },
   "projects": {
+    "api": {
+      "tags": []
+    },
+    "products": {
+      "tags": []
+    },
     "shirt-shop": {
       "tags": []
     },
     "shirt-shop-e2e": {
       "tags": [],
       "implicitDependencies": ["shirt-shop"]
+    },
+    "ui": {
+      "tags": []
     }
   }
 }
